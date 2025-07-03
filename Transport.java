@@ -16,7 +16,7 @@ class Bike extends Vehicle {
     }
 }
 
-public class code2 {
+public class Transport {
     public static void main(String[] args) {
         Car c = new Car();
         Bike b = new Bike();
